@@ -22,5 +22,41 @@ export const robots = [
         name: 'Permata Volunteerism',
         username: 'permatavolunteerism',
         email: 'permatavolunteerism@mail.com'
+    },
+    {
+        id: 5,
+        name: 'Xi Mo Na',
+        username: 'ximona',
+        email: 'ximona@mail.com'
+    },
+    {
+        id: 6,
+        name: 'Vovi',
+        username: 'vovi',
+        email: 'vovi@mail.com'
+    },
+    {
+        id: 7,
+        name: 'Kursi Matama',
+        username: 'kursimatama',
+        email: 'kursimatama@mail.com'
+    },
+    {
+        id: 8,
+        name: 'Acht',
+        username: 'acht',
+        email: 'acht@mail.com'
+    },
+    {
+        id: 9,
+        name: 'Neun',
+        username: 'neun',
+        email: 'neun@mail.com'
+    },
+    {
+        id: 10,
+        name: 'Sepuluh Kali',
+        username: 'sepuluhkali',
+        email: 'sepuluhkali@mail.com'
     }
 ]
